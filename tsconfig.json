@@ -6,6 +6,8 @@
 	"compilerOptions":
 	{
 		"target": "esnext",
+		"module": "node16",
+		"moduleResolution": "node16",
 		"strict": true,
 		"noEmitOnError": true,
 		"noImplicitAny": true,
